@@ -1,0 +1,9 @@
+# Default deny: publish only the documented transcript artifacts.
+*
+!/.gitignore
+!/README.md
+!/*/
+!/*/*/
+!/*/*/全文_原始转写.txt
+!/*/*/全文_校读版.txt
+!/*/*/全文_校读版.docx
